@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "HHI Flagship Behavioral Governance Audit"
+version: "1.0.0"
+doi: 10.5281/zenodo.20044740
+date-released: 2026-05-05
+authors:
+  - family-names: "House Institute"
+    given-names: "Hollow"
+repository-code: "https://github.com/Hollow-house-institute/HHI_Behavioral_Governance_Audit"
+abstract: "Execution-time governance audit infrastructure demonstrating Governance Telemetry, Decision Boundary enforcement, Interaction Trace continuity, Stop Authority visibility, Continuous Assurance, and Longitudinal Accountability across coordinated multi-agent AI systems."
+keywords:
+  - behavioral-ai-governance
+  - execution-time-governance
+  - governance-telemetry
+  - longitudinal-accountability
+  - decision-boundary
+  - interaction-trace
+license: Apache-2.0
+message: "Canonical flagship governance audit release for Behavioral AI Governance infrastructure."
