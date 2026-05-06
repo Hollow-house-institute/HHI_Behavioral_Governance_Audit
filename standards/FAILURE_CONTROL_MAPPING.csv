@@ -1,0 +1,6 @@
+Failure Pattern|Missing Capability|HHI Control|Evidence Produced
+Governance Drift|Runtime Governance|Governance Telemetry|Telemetry Log
+Decision Substitution|Decision Boundary Enforcement|Interaction Trace|Audit Artifact
+Escalation Suppression|Stop Authority|Escalation Log|Incident Trace
+Accountability Diffusion|Responsibility Binding|Decision Boundary Map|Governance Record
+Behavioral Drift|Continuous Assurance|Execution-Time Governance|Drift Evidence
