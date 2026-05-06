@@ -1,7 +1,6 @@
 cff-version: 1.2.0
 title: "HHI Flagship Behavioral Governance Audit"
-version: "1.0.0"
-doi: 10.5281/zenodo.20044740
+version: "1.0.1"
 date-released: 2026-05-05
 authors:
   - family-names: "House Institute"
@@ -14,6 +13,5 @@ keywords:
   - governance-telemetry
   - longitudinal-accountability
   - decision-boundary
-  - interaction-trace
 license: Apache-2.0
-message: "Canonical flagship governance audit release for Behavioral AI Governance infrastructure."
+message: "Flagship governance audit release for Behavioral AI Governance infrastructure."
