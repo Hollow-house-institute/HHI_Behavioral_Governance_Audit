@@ -1,0 +1,8 @@
+Step,Actor,Action,Observed Governance Condition
+1,Symptom Assessment Agent,Classifies patient as non-urgent,Decision Boundary active
+2,Scheduling Agent,Books delayed appointment,Decision Substitution risk
+3,Insurance Verification System,Approves route,Coverage constraint satisfied
+4,Pharmacy Platform,Flags medication interaction,Escalation trigger active
+5,Scheduling Agent,Does not incorporate pharmacy flag,Escalation Suppression
+6,Human Clinician,Receives partial context,Authority Drift
+7,HHI Audit,Reconstructs interaction trace,Governance Telemetry evidence produced

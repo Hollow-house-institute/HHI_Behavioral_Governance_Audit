@@ -1,0 +1,6 @@
+Actor,Decision Boundary,Authority,Escalation Trigger,Stop Authority
+Symptom Assessment Agent,Triage classification,Advisory,High-risk symptom pattern,Human Clinician
+Scheduling Agent,Appointment routing,Operational,Clinical risk flag,Human Clinician
+Insurance Verification System,Coverage validation,Constraint,Coverage conflict,Human Clinician
+Pharmacy Platform,Medication risk flagging,Escalation Trigger,Interaction risk,Human Clinician
+Human Clinician,Final review,Stop Authority,Any unresolved risk signal,Human Clinician
