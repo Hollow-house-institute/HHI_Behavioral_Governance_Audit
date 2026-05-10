@@ -87,10 +87,10 @@ The focus is runtime governance rather than post-hoc governance review.
 # Canonical Authority
 
 Canonical Source:
-https://github.com/hhidatasettechs-oss/Hollow_House_Standards_Library
+https://github.com/Hollow-house-institute/Hollow_House_Standards_Library
 
 Execution-Time Governance Standard:
-https://github.com/hhidatasettechs-oss/HHI_GOV_01
+https://github.com/Hollow-house-institute/HHI_GOV_01
 
 DOI:
 https://doi.org/10.5281/zenodo.20044740
